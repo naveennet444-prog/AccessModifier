@@ -28,7 +28,7 @@ namespace AccessModifier
                of all the projects within that application
 
     2) Private : if we declare Class members as private we can use class members in same class only.creating class using private is not possible.
-                 Among all the access modifiers private will provide more security.
+                 Among all the access modifiers private will provide more security.if we create variables and methods default access modifier is private.
 
     3) Protected : if we declare Class members as protected we can use class members in same class and derived class in same project and in derived class of another project as well.
                    .creating class unsing protected is not possible.
